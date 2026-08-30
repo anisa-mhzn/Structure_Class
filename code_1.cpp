@@ -1,3 +1,4 @@
+// object as function argument
 #include <iostream>
 using namespace std;
 class Distance{
