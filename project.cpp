@@ -56,6 +56,7 @@ class BankAccount{
 			cout<<name<<" "<<acc_num<<" "<<balance<<endl;
 		}
 };
+
 int main(){
 	BankAccount a1("siya",10203,70000),a2;
 	cout<<"NAME"<<" "<<"ACC_NUM"<<" "<<"BALANCE"<<endl;
